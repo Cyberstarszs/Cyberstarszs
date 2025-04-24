@@ -45,7 +45,6 @@
   <h2 style="color: #00FF00; font-family: 'Courier New'; text-shadow: 0 0 10px #00FF00">🖥️ CYBER TERMINAL</h2>
   
   ```bash
-  >> git clone https://github.com/cyberstarszs
-  >> cd cyber-profile
-  >> npm install --cyber-enhance
-  >> npm run deploy --mode=production
+  >> Instagram saya https://www.instagram.com/x.shybb/profilecard/?igsh=eWM0cGUwc2hycWR6
+  >> YouTube https://youtube.com/@songkitanet?si=K9RFCfZeQcMSIxwv
+  >> Tiktok https://www.tiktok.com/@x.shybb?_t=ZS-8vmqD61D7eK&_r=1
