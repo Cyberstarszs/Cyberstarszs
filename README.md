@@ -1,50 +1,51 @@
 <div align="center">
-  <!-- Animasi teks ketik -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58F768&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Cyberstarszs;Full-Stack+Developer;Open+Source+Contributor" alt="Header Typing Animation" />
-  
-  <!-- GIF Header (Opsional) -->
-  <img src="assets/images/header.gif" width="700" alt="Tech Header">
+  <img src="https://raw.githubusercontent.com/cyberstarszs/cyberstarszs/main/assets/images/matrix-banner.gif" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=35&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=HELLO+WORLD+👽;I+AM+CYBERSTARSZS;FULL-STACK+DEVELOPER;INNOVATOR+&&+VISIONARY" alt="Header">
+  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c3515f17eb.gif" width="100%">
 </div>
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cyberstarszs&theme=matrix&row=2&column=4&margin-w=15" alt="Trophies">
 
-## 🧑💻 **About Me**
-```javascript
-const cyberstarszs = {
-  code: ["JavaScript", "Python", "TypeScript"],
-  tools: ["React", "Node.js", "Docker", "AWS"],
-  architecture: ["microservices", "serverless", "AI/ML pipelines"],
-  challenge: "Membuat 1000 commit dalam 1 tahun!",
-  funFact: "Pernah deploy aplikasi saat gempa 5.9 SR 🌍"
-};
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=cyberstarszs&show_icons=true&theme=vision-friendly-dark&bg_color=000000&hide_border=true&include_all_commits=true">
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=cyberstarszs&theme=holi-theme&hide_border=true&background=000000">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberstarszs&theme=react-dark&bg_color=000000&hide_border=true&area=true">
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<div align="center">
+  <h2 style="color: #00FF00; font-family: 'Courier New'; text-shadow: 0 0 10px #00FF00">⚡ TECH ARMORY</h2>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,py,tensorflow,aws,docker,redis,postgres,grafana,linux&theme=dark&perline=6">
+</div>
 
-### ⚙️ **.github/workflows/daily-commit.yml**
-```yaml
-name: Daily Auto-Commit
-on:
-  schedule:
-    - cron: '0 12 * * *' # Setiap hari jam 12 siang UTC
-  workflow_dispatch:
+<div align="center">
+  <h2 style="color: #00FF00; font-family: 'Courier New'; text-shadow: 0 0 10px #00FF00">🚀 CYBER OPERATIONS</h2>
 
-jobs:
-  commit:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-        with:
-          persist-credentials: false
+  <a href="https://github.com/cyberstarszs/quantum-core">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=cyberstarszs&repo=quantum-core&theme=vision-friendly-dark&bg_color=000000&title_color=00FF00&icon_color=00FF00">
+  </a>
 
-      - name: Update Daily File
-        run: |
-          echo "# Daily Commit - $(date)" >> daily-commit.md
-          git config --global user.name "Cyberstarszs"
-          git config --global user.email "github-actions@cyberstarszs.com"
+  <a href="https://github.com/cyberstarszs/neural-matrix">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=cyberstarszs&repo=neural-matrix&theme=dark&bg_color=000000&title_color=FF0000&border_color=FF0000&border_radius=10">
+  </a>
+</div>
 
-      - name: Commit Changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: '📅 Daily Commit: Keep the streak alive!'
-          branch: main
+<div align="center">
+  <h2 style="color: #00FF00; font-family: 'Courier New'; text-shadow: 0 0 10px #00FF00">🖥️ CYBER TERMINAL</h2>
+  
+  ```bash
+  >> git clone https://github.com/cyberstarszs
+  >> cd cyber-profile
+  >> npm install --cyber-enhance
+  >> npm run deploy --mode=production
